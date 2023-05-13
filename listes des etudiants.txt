@@ -1,0 +1,21 @@
+la liste des etudiants
+
+chapitre 01:
+Mohamedi anes 222231632006 groupe 2
+Hadjou Mohamed amine 222231608513 groupe 2
+
+chapitre 02:
+Ikhelef Anissa 222231404106 groupe 2
+Merakchi Rahma 222231657517 groupe 3
+
+chapitre 03:
+Cherfi Maria Farah 222231517308 groupe 2
+Saidoun IKram 222231514804 groupe 2
+
+chapitre 04:
+Hamzaoui Serine 222231497607 groupe 2
+Bahbou Youcef Mahfoud 222231628118 groupe 3
+
+chapitre 05:
+Ouabel Lyna 222231660007 groupe 2
+Ait Abbas Mohamed Amine 222233148217 groupe 3
